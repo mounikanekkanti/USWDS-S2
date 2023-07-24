@@ -4,6 +4,7 @@
   flex-direction: row;
   justify-content: center;
   width: 100%;
+  overflow-x: auto;
 }
 
 .screen-4 .element-4 {
@@ -343,7 +344,7 @@
   gap: 20px;
   padding: 20px 0px 20px 10px;
   position: relative;
-  width: 1345px;
+  width: 100%;
 }
 
 .screen-4 .types-and-sort {
@@ -473,8 +474,11 @@
   flex-direction: column;
   gap: 20px;
   position: relative;
+  margin-left: 10px;
 }
-
+.frame-41 .div-4 {
+	width: 1200px;
+}
 .screen-4 .div-4 {
   align-items: flex-start;
   display: inline-flex;
@@ -495,6 +499,7 @@
   flex-direction: column;
   overflow: hidden;
   position: relative;
+  width: 32%;
 }
 
 .screen-4 .frame-42 {
@@ -555,6 +560,7 @@
   letter-spacing: var(--body-letter-spacing);
   line-height: var(--body-line-height);
   position: relative;
+  text-wrap: balance;
 }
 
 .screen-4 .frame-44 {
@@ -907,7 +913,7 @@
   gap: 24px;
   padding: 30px 0px;
   position: relative;
-  width: 1815px;
+  width: 100%;
 }
 
 .screen-4 .text-wrapper-63 {

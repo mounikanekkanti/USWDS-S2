@@ -12,6 +12,7 @@
   height: 2397px;
   position: relative;
   width: 100%;
+  overflow: hidden;
 }
 
 .screen-8 .contact-6 {
@@ -32,6 +33,7 @@
   flex-direction: column;
   gap: 10px;
   position: relative;
+  width:100%
 }
 
 .screen-8 .left-3 {
@@ -581,6 +583,7 @@
   left: 0;
   position: fixed;
   top: 0;
+  width:100%;
 }
 
 .screen-8 .top-banner-8 {
