@@ -28,6 +28,13 @@ export const Element = () => {
             </div>
           </div>
           <div className="top-menu">
+          <div className="right-side-menu logo-img">
+            <div className="nav-link">
+                <div className="frame">
+                  <img src="/img/logo.png" alt="" className="coverImg" />
+                </div>
+              </div>
+              </div>
             <div className="right-side-menu">
               <div className="nav-link">
                 <div className="frame">
@@ -76,10 +83,9 @@ export const Element = () => {
                         <Icon150 className="icon-instance-node" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="frame-wrapper" to="/02">
-                      <div className="frame-2">
-                        <div className="section">Data Sets</div>
-                        <Icon150 className="icon-instance-node" color="#565C65" />
+                    <Link className="nav-link-12" to="/05">
+                      <div className="frame-35">
+                        <div className="section-6">Data Sets</div>
                       </div>
                     </Link>
                     <Link className="frame-wrapper" to="/07">
@@ -93,11 +99,10 @@ export const Element = () => {
                         <Icon150 className="icon-instance-node" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-2" to="/01-home-page">
+                    <Link className="group-2" to="/9">
                       <div className="nav-link-3">
                         <div className="frame-2">
-                          <div className="section-2">Resources</div>
-                          <Icon4 className="icon-instance-node" />
+                          <div className="section-2">FAQ</div>
                         </div>
                       </div>
                     </Link>

@@ -240,7 +240,7 @@ export const Screen7 = () => {
               <div className="contact-5">
                 <Socials className="socials-instance" />
                 <div className="agency-contact-5">
-                  <div className="text-wrapper-130">Contact Us</div>
+                  <div className="text-wrapper-130">Contact</div>
                   <div className="group-23">
                     <div className="frame-103">
                       <div className="text-wrapper-131">(202) 401-4634</div>
@@ -375,7 +375,7 @@ export const Screen7 = () => {
         </div>
         <div className="frame-109">
           <p className="home-programs-center-5">
-            Home&nbsp;&nbsp;&gt;&nbsp;&nbsp;Resources&nbsp;&nbsp;&gt;&nbsp;&nbsp;FAQ
+            Home&nbsp;&nbsp;&gt;&nbsp;&nbsp;FAQ
           </p>
         </div>
         <div className="header-8">
@@ -394,6 +394,13 @@ export const Screen7 = () => {
             </div>
           </div>
           <div className="top-menu-7">
+          <div className="div-10 logo-img">
+            <div className="nav-link-23">
+                <div className="frame-110">
+                  <img src="/img/logo.png" alt="" className="coverImg" />
+                </div>
+              </div>
+              </div>
             <div className="div-10">
               <div className="nav-link-23">
                 <div className="frame-110">
@@ -447,10 +454,9 @@ export const Screen7 = () => {
                         <Icon150 className="icon-97-instance" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="nav-link-24" to="/02">
-                      <div className="frame-111">
-                        <div className="section-10">Data Sets</div>
-                        <Icon150 className="icon-97-instance" color="#565C65" />
+                    <Link className="nav-link-12" to="/05">
+                      <div className="frame-35">
+                        <div className="section-6">Data Sets</div>
                       </div>
                     </Link>
                     <Link className="nav-link-24" to="/07">
@@ -464,11 +470,10 @@ export const Screen7 = () => {
                         <Icon150 className="icon-97-instance" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-25" to="/03">
-                      <div className="nav-link-25">
-                        <div className="frame-111">
-                          <div className="section-10">Resources</div>
-                          <Icon150 className="icon-97-instance" color="#565C65" />
+                    <Link className="group-4" to="/09">
+                      <div className="nav-link-6">
+                        <div className="frame-5">
+                          <div className="section-3">FAQ</div>
                         </div>
                       </div>
                     </Link>

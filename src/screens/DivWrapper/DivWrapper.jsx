@@ -708,7 +708,7 @@ export const DivWrapper = () => {
               <div className="contact">
                 <Socials className="socials-4" />
                 <div className="agency-contact">
-                  <div className="text-wrapper-36">Contact Us</div>
+                  <div className="text-wrapper-36">Contact</div>
                   <div className="group-8">
                     <div className="frame-29">
                       <div className="text-wrapper-37">(202) 401-4634</div>
@@ -843,7 +843,7 @@ export const DivWrapper = () => {
         </div>
         <div className="home-programs-center-wrapper">
           <p className="home-programs-center">
-            Home&nbsp;&nbsp;&gt;&nbsp;&nbsp;Data Sets&nbsp;&nbsp; &gt;&nbsp;&nbsp;About Data Sets
+            Home&nbsp;&nbsp;&gt;&nbsp;&nbsp;Data Sets
           </p>
         </div>
         <div className="header-4">
@@ -862,6 +862,13 @@ export const DivWrapper = () => {
             </div>
           </div>
           <div className="top-menu-3">
+          <div className="right-side-menu-4 logo-img">
+            <div className="nav-link-11">
+                <div className="frame-34">
+                  <img src="/img/logo.png" alt="" className="coverImg" />
+                </div>
+              </div>
+              </div>
             <div className="right-side-menu-4">
               <div className="nav-link-11">
                 <div className="frame-34">
@@ -915,10 +922,9 @@ export const DivWrapper = () => {
                         <Icon150 className="icon-97" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="nav-link-12" to="/02">
+                    <Link className="nav-link-12" to="/05">
                       <div className="frame-35">
                         <div className="section-6">Data Sets</div>
-                        <Icon150 className="icon-97" color="#565C65" />
                       </div>
                     </Link>
                     <Link className="nav-link-12" to="/07">
@@ -932,11 +938,10 @@ export const DivWrapper = () => {
                         <Icon150 className="icon-97" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-10" to="/03">
+                    <Link className="group-10" to="/09">
                       <div className="nav-link-13">
                         <div className="frame-35">
-                          <div className="section-6">Resources</div>
-                          <Icon150 className="icon-97" color="#565C65" />
+                          <div className="section-6">FAQ</div>
                         </div>
                       </div>
                     </Link>

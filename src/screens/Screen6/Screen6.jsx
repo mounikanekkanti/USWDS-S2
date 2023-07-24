@@ -537,7 +537,7 @@ export const Screen6 = () => {
               <div className="contact-4">
                 <Socials5 className="socials-5" />
                 <div className="agency-contact-4">
-                  <div className="text-wrapper-109">Contact Us</div>
+                  <div className="text-wrapper-109">Contact</div>
                   <div className="group-20">
                     <div className="frame-87">
                       <div className="text-wrapper-110">(202) 401-4634</div>
@@ -689,6 +689,13 @@ export const Screen6 = () => {
             </div>
           </div>
           <div className="top-menu-6">
+          <div className="right-side-menu-6 logo-img">
+            <div className="nav-link-20">
+                <div className="frame-94">
+                  <img src="/img/logo.png" alt="" className="coverImg" />
+                </div>
+              </div>
+              </div>
             <div className="right-side-menu-6">
               <div className="nav-link-20">
                 <div className="frame-94">
@@ -737,10 +744,9 @@ export const Screen6 = () => {
                         <Icon150 className="icon-51" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="nav-link-21" to="/02">
-                      <div className="frame-95">
-                        <div className="section-9">Data Sets</div>
-                        <Icon150 className="icon-51" color="#565C65" />
+                    <Link className="nav-link-12" to="/05">
+                      <div className="frame-35">
+                        <div className="section-6">Data Sets</div>
                       </div>
                     </Link>
                     <div className="nav-link-21">
@@ -754,11 +760,10 @@ export const Screen6 = () => {
                         <Icon150 className="icon-51" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-22" to="/03">
-                      <div className="nav-link-22">
-                        <div className="frame-95">
-                          <div className="section-9">Resources</div>
-                          <Icon150 className="icon-51" color="#565C65" />
+                    <Link className="group-4" to="/09">
+                      <div className="nav-link-6">
+                        <div className="frame-5">
+                          <div className="section-3">FAQ</div>
                         </div>
                       </div>
                     </Link>

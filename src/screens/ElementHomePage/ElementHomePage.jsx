@@ -27,6 +27,13 @@ export const ElementHomePage = () => {
             </div>
           </div>
           <div className="right-side-menu-wrapper">
+          <div className="right-side-menu-2 logo-img">
+            <div className="nav-link-4">
+                <div className="frame">
+                  <img src="/img/logo.png" alt="" className="coverImg" />
+                </div>
+              </div>
+              </div>
             <div className="right-side-menu-2">
               <div className="nav-link-4">
                 <div className="link-wrapper">
@@ -75,10 +82,9 @@ export const ElementHomePage = () => {
                         <Icon150 className="icon-150" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="nav-link-5" to="/02">
-                      <div className="frame-5">
-                        <div className="section-3">Data Sets</div>
-                        <Icon150 className="icon-150" color="#565C65" />
+                    <Link className="nav-link-12" to="/05">
+                      <div className="frame-35">
+                        <div className="section-6">Data Sets</div>
                       </div>
                     </Link>
                     <Link className="nav-link-5" to="/07">
@@ -92,11 +98,10 @@ export const ElementHomePage = () => {
                         <Icon150 className="icon-150" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-4" to="/03">
+                    <Link className="group-4" to="/09">
                       <div className="nav-link-6">
                         <div className="frame-5">
-                          <div className="section-3">Resources</div>
-                          <Icon150 className="icon-150" color="#565C65" />
+                          <div className="section-3">FAQ</div>
                         </div>
                       </div>
                     </Link>

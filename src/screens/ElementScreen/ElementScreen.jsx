@@ -28,11 +28,18 @@ export const ElementScreen = () => {
             </div>
           </div>
           <div className="top-menu-2">
+          <div className="right-side-menu-3 logo-img">
+            <div className="nav-link-7">
+                <div className="frame-6">
+                  <img src="/img/logo.png" alt="" className="coverImg" />
+                </div>
+              </div>
+              </div>
             <div className="right-side-menu-3">
               <div className="nav-link-7">
                 <div className="frame-6">
                   <div className="link-3">Help</div>
-                </div>
+                </div>                                                                                                  
               </div>
               <Link className="nav-link-7" to="/08">
                 <div className="frame-6">
@@ -79,7 +86,6 @@ export const ElementScreen = () => {
                     <div className="nav-link-10">
                       <div className="frame-7">
                         <div className="section-5">Data Sets</div>
-                        <Icon4 className="icon-3" />
                       </div>
                     </div>
                     <Link className="nav-link-8" to="/07">
@@ -93,11 +99,10 @@ export const ElementScreen = () => {
                         <Icon150 className="icon-3" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-6" to="/03">
-                      <div className="nav-link-9">
-                        <div className="frame-7">
-                          <div className="section-4">Resources</div>
-                          <Icon150 className="icon-3" color="#565C65" />
+                    <Link className="group-4" to="/09">
+                      <div className="nav-link-6">
+                        <div className="frame-5">
+                          <div className="section-3">FAQ</div>
                         </div>
                       </div>
                     </Link>
@@ -118,10 +123,11 @@ export const ElementScreen = () => {
                   volutpat. Viverra aliquet.auctor sit ipsum malesuada a, duis volutpat.
                 </p>
               </div>
-              <Link className="arrow-link-2" to="/05">
-                <div className="text-wrapper-13">About Data Sets</div>
-                <div className="icon-4" />
-              </Link>
+              <Link className="nav-link-12" to="/05">
+                      <div className="frame-35">
+                        <div className="section-6">Data Sets</div>
+                      </div>
+                    </Link>
             </div>
           </div>
           <div className="frame-10">

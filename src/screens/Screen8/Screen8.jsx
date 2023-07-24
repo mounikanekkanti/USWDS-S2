@@ -115,7 +115,7 @@ export const Screen8 = () => {
               <div className="contact-7">
                 <Socials5 className="socials-3" />
                 <div className="agency-contact-6">
-                  <div className="text-wrapper-147">Contact Us</div>
+                  <div className="text-wrapper-147">Contact</div>
                   <div className="group-26">
                     <div className="frame-114">
                       <div className="text-wrapper-148">(202) 401-4634</div>
@@ -267,6 +267,13 @@ export const Screen8 = () => {
             </div>
           </div>
           <div className="top-menu-8">
+          <div className="right-side-menu-7 logo-img">
+            <div className="nav-link-26">
+                <div className="frame-121">
+                  <img src="/img/logo.png" alt="" className="coverImg" />
+                </div>
+              </div>
+              </div>
             <div className="right-side-menu-7">
               <div className="nav-link-26">
                 <div className="frame-121">
@@ -275,7 +282,7 @@ export const Screen8 = () => {
               </div>
               <div className="nav-link-26">
                 <div className="frame-121">
-                  <div className="link-9">Contact Us</div>
+                  <div className="link-9">Contact</div>
                 </div>
               </div>
             </div>
@@ -320,10 +327,9 @@ export const Screen8 = () => {
                         <Icon150 className="icon-1-instance" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="nav-link-27" to="/02">
-                      <div className="frame-122">
-                        <div className="section-12">Data Sets</div>
-                        <Icon150 className="icon-1-instance" color="#565C65" />
+                    <Link className="nav-link-12" to="/05">
+                      <div className="frame-35">
+                        <div className="section-6">Data Sets</div>
                       </div>
                     </Link>
                     <Link className="nav-link-27" to="/07">
@@ -337,11 +343,10 @@ export const Screen8 = () => {
                         <Icon150 className="icon-1-instance" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-28" to="/03">
-                      <div className="nav-link-28">
-                        <div className="frame-122">
-                          <div className="section-12">Resources</div>
-                          <Icon150 className="icon-1-instance" color="#565C65" />
+                    <Link className="group-4" to="/09">
+                      <div className="nav-link-6">
+                        <div className="frame-5">
+                          <div className="section-3">FAQ</div>
                         </div>
                       </div>
                     </Link>
