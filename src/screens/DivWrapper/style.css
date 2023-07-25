@@ -34,7 +34,15 @@
   position: relative;
 }
 .nav-link-12 {
+  flex-direction: column;
+  flex: none;
+  justify-content: center;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 16px;
   padding: 16px 16px 20px;
+  display: inline-flex;
+  position: relative;
 }
 .coverImg {
   height: 45px;
