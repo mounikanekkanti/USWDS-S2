@@ -70,11 +70,9 @@ export const Element = () => {
                         <div className="section">Home</div>
                       </div>
                     </Link>
-                    <Link className="group" to="/06">
-                      <div className="nav-link-2">
-                        <div className="frame-2">
-                          <div className="section">Release Notes</div>
-                        </div>
+                    <Link className="nav-link-12" to="/06">
+                      <div className="frame-35">
+                        <div className="section-6">Release Notes</div>
                       </div>
                     </Link>
                     <div className="frame-wrapper">
@@ -99,11 +97,9 @@ export const Element = () => {
                         <Icon150 className="icon-instance-node" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-2" to="/9">
-                      <div className="nav-link-3">
-                        <div className="frame-2">
-                          <div className="section-2">FAQ</div>
-                        </div>
+                    <Link className="nav-link-12" to="/09">
+                      <div className="frame-35">
+                        <div className="section-6">FAQ</div>
                       </div>
                     </Link>
                   </div>

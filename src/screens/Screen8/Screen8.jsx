@@ -314,11 +314,9 @@ export const Screen8 = () => {
                         <div className="section-12">Home</div>
                       </div>
                     </Link>
-                    <Link className="group-27" to="/06">
-                      <div className="nav-link-28">
-                        <div className="frame-122">
-                          <div className="section-12">Release Notes</div>
-                        </div>
+                    <Link className="nav-link-12" to="/06">
+                      <div className="frame-35">
+                        <div className="section-6">Release Notes</div>
                       </div>
                     </Link>
                     <div className="nav-link-27">
@@ -343,11 +341,9 @@ export const Screen8 = () => {
                         <Icon150 className="icon-1-instance" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-4" to="/09">
-                      <div className="nav-link-6">
-                        <div className="frame-5">
-                          <div className="section-3">FAQ</div>
-                        </div>
+                    <Link className="nav-link-12" to="/09">
+                      <div className="frame-35">
+                        <div className="section-6">FAQ</div>
                       </div>
                     </Link>
                   </div>

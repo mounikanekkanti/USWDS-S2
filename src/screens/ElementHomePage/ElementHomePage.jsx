@@ -69,11 +69,9 @@ export const ElementHomePage = () => {
                         <div className="section-3">Home</div>
                       </div>
                     </div>
-                    <Link className="group-3" to="/06">
-                      <div className="nav-link-6">
-                        <div className="frame-5">
-                          <div className="section-3">Release Notes</div>
-                        </div>
+                    <Link className="nav-link-12" to="/06">
+                      <div className="frame-35">
+                        <div className="section-6">Release Notes</div>
                       </div>
                     </Link>
                     <div className="nav-link-5">
@@ -98,11 +96,9 @@ export const ElementHomePage = () => {
                         <Icon150 className="icon-150" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-4" to="/09">
-                      <div className="nav-link-6">
-                        <div className="frame-5">
-                          <div className="section-3">FAQ</div>
-                        </div>
+                    <Link className="nav-link-12" to="/09">
+                      <div className="frame-35">
+                        <div className="section-6">FAQ</div>
                       </div>
                     </Link>
                   </div>

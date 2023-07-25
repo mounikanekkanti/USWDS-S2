@@ -909,11 +909,9 @@ export const DivWrapper = () => {
                         <div className="section-6">Home</div>
                       </div>
                     </Link>
-                    <Link className="group-9" to="/06">
-                      <div className="nav-link-13">
-                        <div className="frame-35">
-                          <div className="section-6">Release Notes</div>
-                        </div>
+                    <Link className="nav-link-12" to="/06">
+                      <div className="frame-35">
+                        <div className="section-6">Release Notes</div>
                       </div>
                     </Link>
                     <div className="nav-link-12">
@@ -938,11 +936,9 @@ export const DivWrapper = () => {
                         <Icon150 className="icon-97" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-10" to="/09">
-                      <div className="nav-link-13">
-                        <div className="frame-35">
-                          <div className="section-6">FAQ</div>
-                        </div>
+                    <Link className="nav-link-12" to="/09">
+                      <div className="frame-35">
+                        <div className="section-6">FAQ</div>
                       </div>
                     </Link>
                   </div>

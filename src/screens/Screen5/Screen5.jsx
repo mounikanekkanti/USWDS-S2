@@ -2626,11 +2626,9 @@ export const Screen5 = () => {
                         <div className="section-8">Home</div>
                       </div>
                     </Link>
-                    <Link className="group-18" to="/06">
-                      <div className="nav-link-19">
-                        <div className="frame-74">
-                          <div className="section-8">Release Notes</div>
-                        </div>
+                    <Link className="nav-link-12" to="/06">
+                      <div className="frame-35">
+                        <div className="section-6">Release Notes</div>
                       </div>
                     </Link>
                     <div className="nav-link-18">
@@ -2655,11 +2653,9 @@ export const Screen5 = () => {
                         <Icon150 className="icon-150-instance" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-4" to="/09">
-                      <div className="nav-link-6">
-                        <div className="frame-5">
-                          <div className="section-3">FAQ</div>
-                        </div>
+                    <Link className="nav-link-12" to="/09">
+                      <div className="frame-35">
+                        <div className="section-6">FAQ</div>
                       </div>
                     </Link>
                   </div>

@@ -731,11 +731,9 @@ export const Screen6 = () => {
                         <div className="section-9">Home</div>
                       </div>
                     </Link>
-                    <Link className="group-21" to="/06">
-                      <div className="nav-link-22">
-                        <div className="frame-95">
-                          <div className="section-9">Release Notes</div>
-                        </div>
+                    <Link className="nav-link-12" to="/06">
+                      <div className="frame-35">
+                        <div className="section-6">Release Notes</div>
                       </div>
                     </Link>
                     <div className="nav-link-21">
@@ -760,11 +758,9 @@ export const Screen6 = () => {
                         <Icon150 className="icon-51" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-4" to="/09">
-                      <div className="nav-link-6">
-                        <div className="frame-5">
-                          <div className="section-3">FAQ</div>
-                        </div>
+                    <Link className="nav-link-12" to="/09">
+                      <div className="frame-35">
+                        <div className="section-6">FAQ</div>
                       </div>
                     </Link>
                   </div>

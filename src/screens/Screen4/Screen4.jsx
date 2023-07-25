@@ -704,13 +704,11 @@ export const Screen4 = () => {
                         <div className="section-7">Home</div>
                       </div>
                     </Link>
-                    <div className="group-13">
-                      <div className="nav-link-16">
-                        <div className="frame-50">
-                          <div className="section-7">Release Notes</div>
-                        </div>
+                    <Link className="nav-link-12" to="/06">
+                      <div className="frame-35">
+                        <div className="section-6">Release Notes</div>
                       </div>
-                    </div>
+                    </Link>
                     <div className="nav-link-15">
                       <div className="frame-50">
                         <div className="section-7">Search by Topics</div>
@@ -733,11 +731,9 @@ export const Screen4 = () => {
                         <Icon150 className="icon-1" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-4" to="/09">
-                      <div className="nav-link-6">
-                        <div className="frame-5">
-                          <div className="section-3">FAQ</div>
-                        </div>
+                    <Link className="nav-link-12" to="/09">
+                      <div className="frame-35">
+                        <div className="section-6">FAQ</div>
                       </div>
                     </Link>
                   </div>

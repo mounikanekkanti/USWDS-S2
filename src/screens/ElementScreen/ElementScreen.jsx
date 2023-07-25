@@ -70,11 +70,9 @@ export const ElementScreen = () => {
                         <div className="section-4">Home</div>
                       </div>
                     </Link>
-                    <Link className="group-5" to="/06">
-                      <div className="nav-link-9">
-                        <div className="frame-7">
-                          <div className="section-4">Release Notes</div>
-                        </div>
+                    <Link className="nav-link-12" to="/06">
+                      <div className="frame-35">
+                        <div className="section-6">Release Notes</div>
                       </div>
                     </Link>
                     <div className="nav-link-8">
@@ -99,11 +97,9 @@ export const ElementScreen = () => {
                         <Icon150 className="icon-3" color="#565C65" />
                       </div>
                     </div>
-                    <Link className="group-4" to="/09">
-                      <div className="nav-link-6">
-                        <div className="frame-5">
-                          <div className="section-3">FAQ</div>
-                        </div>
+                    <Link className="nav-link-12" to="/09">
+                      <div className="frame-35">
+                        <div className="section-6">FAQ</div>
                       </div>
                     </Link>
                   </div>

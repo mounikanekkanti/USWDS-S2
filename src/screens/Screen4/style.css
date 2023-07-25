@@ -12,7 +12,9 @@
   white-space: nowrap;
   width: -moz-fit-content;
   width: fit-content;
-  font-family: Public Sans, Helvetica;
+  font-family:
+    Public Sans,
+    Helvetica;
   font-size: 16px;
   font-weight: 700;
   line-height: normal;
@@ -24,20 +26,22 @@
   white-space: nowrap;
   width: -moz-fit-content;
   width: fit-content;
-  font-family: Public Sans, Helvetica;
+  font-family:
+    Public Sans,
+    Helvetica;
   font-size: 16px;
   font-weight: 700;
   line-height: normal;
   position: relative;
 }
-.coverImg{
+.coverImg {
   height: 45px;
-  }
-  .logo-img {
-    position: absolute !important;
-    left: 40px;
-    margin-top: -12px;
-  }
+}
+.logo-img {
+  position: absolute !important;
+  left: 40px;
+  margin-top: -12px;
+}
 .nav-link-12 {
   padding: 16px 16px 20px;
 }
@@ -58,7 +62,7 @@
   left: 0;
   position: absolute;
   top: 297px;
-  width:100%;
+  width: 100%;
 }
 
 .screen-4 .intro {
@@ -512,7 +516,7 @@
   margin-left: 10px;
 }
 .frame-41 .div-4 {
-	width: 1200px;
+  width: 1200px;
 }
 .screen-4 .div-4 {
   align-items: flex-start;
